@@ -2,20 +2,43 @@
 
 i'm 14 and i build software in san jose. right now i'm working on [**supercompress**](https://supercompress.dev), an open-source context compression tool for ai agents.
 
-→ [arjunshah.xyz](https://arjunshah.xyz) · [blog](https://arjunshah.xyz/blog) · [socials](https://arjunshah.xyz/socials)
+→ [arjunshah.xyz](https://arjunshah.xyz) · [blog](https://arjunshah.xyz/blog) · [art](https://arjunshah.xyz/art) · [socials](https://arjunshah.xyz/socials)
 
 ---
 
-### selected work
+### highlighted projects
 
-| | |
+| project | what it is |
 | :--- | :--- |
-| [**supercompress**](https://supercompress.dev) | context compression for ai agents |
-| [**loopy**](https://loopy.yachts) | an autonomous software engineer |
+| [**loopy**](https://loopy.yachts) | an autonomous software engineer — researches, plans, builds, loops until done |
+| [**supercompress**](https://supercompress.dev) | context compression for long-running ai agents |
 | [**ditherstudio**](https://ditherstudio.ideatr.dev) | dither any image in the browser |
-| [**ascii-skill**](https://gitlab.com/arjunkshah/ascii-skill) | ascii art for ai agents |
-| [**pincer**](https://trypincer.netlify.app) | a calmer reading layer for the web |
-| [**jasmine**](https://tryjasmine.dev) | an ai frontend engineer with taste |
+| [**ascii-skill**](https://github.com/arjunkshah12345-hash/ascii-skill) | ascii art for ai agents |
+| [**NEAT flappy bird**](https://github.com/arjunkshah12345-hash/NEAT-Flappy-Bird) | neuroevolution learns to play flappy bird — my favorite project |
+| [**typing club bot**](https://github.com/arjunkshah12345-hash/Typing-Club-Bot) | typing club automation / practice utilities |
+
+---
+
+### art
+
+dithered studies of places, movement, color, and gods — made with [ditherstudio](https://ditherstudio.ideatr.dev). full set on [arjunshah.xyz/art](https://arjunshah.xyz/art).
+
+<p align="center">
+  <img src="assets/art/road-home.jpg" alt="01 — road home" width="24%" />
+  <img src="assets/art/stillness.jpg" alt="02 — stillness" width="24%" />
+  <img src="assets/art/mahadev.jpg" alt="03 — mahadev" width="24%" />
+  <img src="assets/art/motion.jpg" alt="04 — motion" width="24%" />
+</p>
+<p align="center">
+  <img src="assets/art/quiet-peaks.jpg" alt="05 — quiet peaks" width="24%" />
+  <img src="assets/art/san-francisco.jpg" alt="06 — san francisco" width="24%" />
+  <img src="assets/art/pink-bank.jpg" alt="07 — pink bank" width="24%" />
+  <img src="assets/art/liftoff.jpg" alt="08 — liftoff" width="24%" />
+</p>
+
+<sub>
+01 road home · 02 stillness · 03 mahadev · 04 motion · 05 quiet peaks · 06 san francisco · 07 pink bank · 08 liftoff
+</sub>
 
 ---
 
