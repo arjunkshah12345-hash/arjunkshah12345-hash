@@ -17,20 +17,40 @@
 
 hi — i'm arjun. i build tools for agents that can work longer, remember better, and ship software that doesn't feel accidental.
 
-right now: [**supercompress**](https://supercompress.dev) — open-source context compression for long-running ai agents.
+---
+
+### ◆ now building
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://supercompress.dev">supercompress</a></h3>
+      <p>
+        open-source <strong>context compression</strong> for long-running ai agents.<br/>
+        query-aware memory so agents don't need more prompts — they need better context.
+      </p>
+      <p>
+        <a href="https://supercompress.dev"><strong>supercompress.dev →</strong></a>
+        ·
+        <a href="https://github.com/arjunkshah12345-hash/supercompress">repo</a>
+        ·
+        <a href="https://arjunshah.xyz/blog/supercompress">writeup</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ◆ highlighted
+### ◆ also shipping
 
 | | | |
 | ---: | :--- | :--- |
 | `01` | [**loopy**](https://loopy.yachts) | an autonomous software engineer |
-| `02` | [**supercompress**](https://supercompress.dev) | context compression for ai agents |
-| `03` | [**ditherstudio**](https://ditherstudio.ideatr.dev) | dither any image in the browser |
-| `04` | [**ascii-skill**](https://github.com/arjunkshah12345-hash/ascii-skill) | ascii art as an agent skill |
-| `05` | [**NEAT flappy bird**](https://github.com/arjunkshah12345-hash/NEAT-Flappy-Bird) | neuroevolution learns to fly — favorite project |
-| `06` | [**typing club bot**](https://github.com/arjunkshah12345-hash/Typing-Club-Bot) | typing club automation / practice utilities |
+| `02` | [**ditherstudio**](https://ditherstudio.ideatr.dev) | dither any image in the browser |
+| `03` | [**ascii-skill**](https://github.com/arjunkshah12345-hash/ascii-skill) | ascii art as an agent skill |
+| `04` | [**NEAT flappy bird**](https://github.com/arjunkshah12345-hash/NEAT-Flappy-Bird) | neuroevolution learns to fly — favorite project |
+| `05` | [**typing club bot**](https://github.com/arjunkshah12345-hash/Typing-Club-Bot) | typing club automation / practice utilities |
 
 ---
 
